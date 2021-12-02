@@ -8,22 +8,22 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Johnny Hopkins
-description: "Hi I'm Johnny, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+title: Uran Bolush
+description: "Hi I'm Uran, and I'm a Data Analyst and currently Data Science trainee. My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "London, UK"
-resume_url: /docs/resume.docx
-avatar_image: /img/profile_picture.JPG
+subtitle: Data Analyst <span style="color:#f58506"> Portfolio </span>
+location: "Calgary AB, Canada"
+resume_url: /docs/Uran-Bolush-cv.pdf
+avatar_image: /img/IMG_20211121_213936%20(1)%20Cropped.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/uran-bolush/" # Add your linkedln handle
+github: "https://github.com/nomadway"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
