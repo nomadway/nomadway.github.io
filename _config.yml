@@ -17,7 +17,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Analyst <span style="color:#f58506"> Portfolio </span>
 location: "Calgary, Canada"
-tableau: "https://public.tableau.com/app/profile/uran.bolush" #Add your tableau link
+# tableau: "https://public.tableau.com/app/profile/uran.bolush" #Add your tableau link
 resume_url: /docs/Uran-Bolush-resume.pdf 
 avatar_image: /img/IMG_20211121_213936%20(1)%20Cropped.jpg
 
