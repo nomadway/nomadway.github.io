@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Uran Bolush
-description: "Hi I'm Uran, and I'm a Data Analyst at a Canada based private, unicorn FinTech."
+description: "Hi I'm Uran. Currently, I'm a Data Analyst at a Canada based private, unicorn FinTech."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
