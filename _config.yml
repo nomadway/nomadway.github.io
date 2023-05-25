@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Uran Bolush
-description: "Greetings! I'm Uran. I'm a Data Analyst and a Data Engineer in progress."
+description: "Greetings! I'm Uran Bolush, a skilled Data Analyst and currently leveling up my expertise with a Data Engineering training."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
