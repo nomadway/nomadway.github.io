@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Uran Bolush
-description: "Greetings! I'm Uran, a skilled Data Analyst and currently leveling up my expertise with a Data Engineering training."
+description: "Greetings! I'm Uran, a Penetration Tester."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,9 +18,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 subtitle: Data Analyst <span style="color:#f58506"> Portfolio </span>
-location: "Montreal, Canada"
+location: "Calgary, Canada"
 # tableau: "https://public.tableau.com/app/profile/uran.bolush" #Add your tableau link
-resume_url: /docs/Uran-Bolush-DA -cv.pdf
+resume_url: /docs/Uran-Bolush-DA -cv.pd
 avatar_image: /img/IMG_20211121_213936%20(1)%20Cropped.jpg
 
 #-------------------------------
