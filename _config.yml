@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Uran Bolush
-description: "Greetings! I'm Uran, a Penetration Tester."
+description: "Welcome to my page. I'm Uran, a Penetration Tester dedicated to unraveling the complexities of cybersecurity."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
